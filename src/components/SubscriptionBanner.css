@@ -1,0 +1,44 @@
+.subscription-banner {
+    background-color: #e9d7fd;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.subscription-content {
+    max-width: 50%;
+}
+
+.subscription-content h2 {
+    color: #3b10e3;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.email-input-container {
+    display: flex;
+    align-items: center;
+}
+
+.email-input-container input {
+    padding: 0.8rem;
+    width: 250px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.email-input-container button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.house-image img {
+    width: 150px;
+}
